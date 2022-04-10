@@ -45,6 +45,9 @@
   <a href = "mailto:vrag404@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank">
 </a>
 </p>
-<div>
-    ![Snake animation](https://github.com/Vrag404/)
-</div>
+
+<div align="center">
+  
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+  
+  </div>
