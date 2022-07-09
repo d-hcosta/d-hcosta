@@ -1,8 +1,6 @@
 <div align="center">
   
   ![Profile View Counter](https://komarev.com/ghpvc/?username=Vrag404&color=blueviolet&style=plastic)
-  [![Repos Badge](https://badges.pufler.dev/repos/Vrag404?color=blueviolet&style=plastic)](https://badges.pufler.dev)
-  [![Commits Badge](https://badges.pufler.dev/commits/yearly/Vrag404?color=blueviolet&style=plastic)](https://badges.pufler.dev)
   
 </div>
 
