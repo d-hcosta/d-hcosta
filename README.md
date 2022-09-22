@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=Vrag404&color=blueviolet&style=plastic)
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=Vrag404&color=lightgrey&style=plastic)
   
 </div>
 
