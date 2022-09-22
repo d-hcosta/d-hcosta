@@ -5,13 +5,13 @@
 </div>
 
 <div align="center">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=Vrag404&show_icons=true&theme=dracula"> 
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrag404&layout=compact&theme=dracula"> 
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=Vrag404&show_icons=true&theme=dark"> 
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrag404&layout=compact&theme=dark"> 
 </div>
 
 <br />
  
-<div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=Vrag404&theme=dracula" alt="Vrag404" /></div>
+<div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=Vrag404&theme=dark" alt="Vrag404" /></div>
 <br />
 
 
