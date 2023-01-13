@@ -6,12 +6,10 @@
 
 <br />
  
-<div align="center">
-
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=Vrag404&show_icons=true&theme=dracula"> 
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrag404&layout=compact&theme=dracula"> 
-  
-</div>
+<!-- <div align="center"> -->
+<!--   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=Vrag404&show_icons=true&theme=dracula">  -->
+<!--   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrag404&layout=compact&theme=dracula">  -->
+<!-- </div> -->
 
 <br />
 
