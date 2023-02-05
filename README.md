@@ -1,19 +1,19 @@
 <div align="center">
   
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=Vrag404&color=blueviolet&style=plastic)
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=becomewar&color=blueviolet&style=plastic)
  
 </div>
 
 <br />
  
 <!-- <div align="center"> -->
-<!--   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=Vrag404&show_icons=true&theme=dracula">  -->
-<!--   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrag404&layout=compact&theme=dracula">  -->
+<!--   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=becomewar&show_icons=true&theme=dracula">  -->
+<!--   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=becomewar&layout=compact&theme=dracula">  -->
 <!-- </div> -->
 
 <br />
 
-<div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=Vrag404&theme=dracula" alt="Vrag404" /></div>
+<div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=becomewar&theme=dracula" alt="becomewar" /></div>
 
 <br />
 
