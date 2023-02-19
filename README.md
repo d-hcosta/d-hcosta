@@ -4,17 +4,19 @@
  
 </div>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FjYzY4MmM4OGNiOGUxNWYyY2RkYWY0NDk5ODAxNzY2MTQwYWZkZiZjdD1n/vrxxqQbyRxYi6scCjT/giphy.gif" width="250"/>
+</div>
+
 <br />
  
-<!-- <div align="center"> -->
-<!--   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=becomewar&show_icons=true&theme=dracula">  -->
-<!--   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=becomewar&layout=compact&theme=dracula">  -->
-<!-- </div> -->
+<div align="center">
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=becomewar&show_icons=true&theme=dracula&count_private=true">
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=becomewar&layout=compact&theme=dracula&count_private=true">
+</div>
 
 <br />
-
-<div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=becomewar&theme=dracula" alt="becomewar" /></div>
-
+  <div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=becomewar&theme=dracula" alt="becomewar" /></div>
 <br />
 
 <h2 align="center">Languages and Frameworks</h2>
