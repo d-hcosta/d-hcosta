@@ -16,7 +16,7 @@
 </div>
 
 <br />
-  <div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=becomewar&theme=dracula" alt="becomewar" /></div>
+  <div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=becomewar&theme=dracula&count_private=true" alt="becomewar" /></div>
 <br />
 
 <h2 align="center">Languages and Frameworks</h2>
