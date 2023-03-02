@@ -41,7 +41,7 @@
 <div align="center">
 <br />
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=becomewar&color=blueviolet&style=plastic)
+![Profile View Counter](https://komarev.com/ghpvc/?username=becomewar&color=0d1117&style=plastic)
 
 
 </div>
