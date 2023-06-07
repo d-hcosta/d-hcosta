@@ -12,7 +12,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=d-hcosta&show_icons=true&count_private=true&hide_border=true&title_color=e5e9f0&icon_color=e5e9f0&text_color=d8dee9&bg_color=0d1117" alt="d-hcosta github stats" /> 
+<!--   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=d-hcosta&show_icons=true&count_private=true&hide_border=true&title_color=e5e9f0&icon_color=e5e9f0&text_color=d8dee9&bg_color=0d1117" alt="d-hcosta github stats" />  -->
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-hcosta&layout=compact&hide_border=true&title_color=d8dee9&text_color=d8dee9&bg_color=0d1117" />
 </div>
 
